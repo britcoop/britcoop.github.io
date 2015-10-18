@@ -1,0 +1,25 @@
+---
+layout: page
+permalink: /education/
+title: Education
+image: 
+  feature: picture-11.jpg
+---
+
+
+<h2>HACKERYOU</h2>
+<p>Advanced Web Development</br>
+JavaScript &amp; jQuery</br>
+HTML5, CSS3, JavaScript, jQuery</p>
+
+<h2>WESTERN UNIVERSITY</h2>
+<p>Computer Science</br>
+Java I, Java II</p>
+
+<h2>THE UNIVERSITY OF WINDSOR</h2>
+<p>Masters of Human Kinetics, Psychology</br>
+2013</p>
+
+<h2>WESTERN UNIVERSITY</h2>
+<p>Honours Bachelor of Arts, Psychology and English Literature</br>
+2010</p>
